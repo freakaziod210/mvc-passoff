@@ -43,6 +43,7 @@
     <body class='content'>
        <div><h1 class='title'>Page {{$pageId}}</h1></div>
        <nav class='links'>
+            <a href="/0">Page 0</a>
             <a href="/1">Page 1</a>
             <a href="/2">Page 2</a>
             <a href="/3">Page 3</a>
